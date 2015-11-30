@@ -1,0 +1,6 @@
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\03.Path3D\bin\Debug\03.Path3D.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\03.Path3D\bin\Debug\03.Path3D.exe
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\03.Path3D\bin\Debug\03.Path3D.pdb
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\03.Path3D\obj\Debug\03.Path3D.csprojResolveAssemblyReference.cache
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\03.Path3D\obj\Debug\03.Path3D.exe
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\03.Path3D\obj\Debug\03.Path3D.pdb

@@ -1,0 +1,6 @@
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\04.Namespaces\bin\Debug\04.Namespaces.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\04.Namespaces\bin\Debug\04.Namespaces.exe
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\04.Namespaces\bin\Debug\04.Namespaces.pdb
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\04.Namespaces\obj\Debug\04.Namespaces.csprojResolveAssemblyReference.cache
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\04.Namespaces\obj\Debug\04.Namespaces.exe
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\04.Namespaces\obj\Debug\04.Namespaces.pdb

@@ -1,0 +1,6 @@
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\01.Point3D\bin\Debug\01.Point3D.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\01.Point3D\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\01.Point3D\bin\Debug\01.Point3D.exe
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\01.Point3D\bin\Debug\01.Point3D.pdb
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\01.Point3D\obj\Debug\01.Point3D.exe
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\01.Point3D\obj\Debug\01.Point3D.pdb

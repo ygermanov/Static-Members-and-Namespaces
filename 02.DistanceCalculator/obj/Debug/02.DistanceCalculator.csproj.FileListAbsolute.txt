@@ -1,0 +1,6 @@
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.csprojResolveAssemblyReference.cache
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
+c:\users\yani\documents\visual studio 2013\Projects\StaticMembersNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb
